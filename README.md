@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Sido! 👋
 
-<!--
-**SIDO16DZ/SIDO16DZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Gamer & Independent Developer from Algeria 🇩🇿
 
-Here are some ideas to get you started:
+### 🛠️ What I Do
+- 🔧 Maintaining & updating open-source scripts (Discord Tools, Automation).
+- 🎮 Game modding, configurations & UI scripts.
+- 💻 Exploring 2D game development & software tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📬 Connect With Me
+- Discord Community: [SO7BA](https://discord.gg/AkZaNzNSVd)
+
+---
+*“Building tools to make gaming & tech simpler.”*
